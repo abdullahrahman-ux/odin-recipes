@@ -1,0 +1,9 @@
+body {
+color: black;
+font-size: larger;
+background-color: white;
+}
+
+p, ol, ul {
+    color:goldenrod
+}
